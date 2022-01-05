@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "bạn có 1 tin nhắn🧡!",
-    introTitle: 'Tên crush',
+    introTitle: 'Code by Lê Dũng',
     introDesc: `xin chào bạn`,
     btnIntro: 'click vào đây :3',
     title: 'cơn gió nào đã thổi bạn vào chốn này? o~o',
